@@ -19,7 +19,7 @@ An advanced data analytics dashboard built using Streamlit and Python to analyze
 - Plotly
 
 ## 🚀 Live Demo
-[Click Here](https://your-app-link.streamlit.app)
+[Click Here](https://ecommercesales-dashboard.streamlit.app/)
 
 ## ⚙️ Run Locally
 pip install -r requirements.txt  
