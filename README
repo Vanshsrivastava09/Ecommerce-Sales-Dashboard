@@ -1,0 +1,26 @@
+# 🚀 E-commerce Analytics Dashboard
+
+## 🔍 Overview
+An advanced data analytics dashboard built using Streamlit and Python to analyze e-commerce sales data.
+
+## 💡 Features
+- 📊 Interactive KPI Dashboard
+- 📅 Date Range Filtering
+- 🎯 Customer Segmentation
+- 📈 Sales vs Profit Analysis
+- 📦 Top Products Insights
+- 🌍 Region-wise Analysis
+- 📥 Data Export Feature
+
+## 🛠 Tech Stack
+- Python
+- Pandas
+- Streamlit
+- Plotly
+
+## 🚀 Live Demo
+[Click Here](https://your-app-link.streamlit.app)
+
+## ⚙️ Run Locally
+pip install -r requirements.txt  
+streamlit run app.py
